@@ -1,0 +1,15 @@
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\bin\Release\ClipDirector.exe.config
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\bin\Release\ClipDirector.exe
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\bin\Release\ClipDirector.xml
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.Form1.resources
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.Resources.resources
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.vbproj.GenerateResource.Cache
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.exe
+X:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.xml
+C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\bin\Release\ClipDirector.exe.config
+C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\bin\Release\ClipDirector.exe
+C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.vbprojResolveAssemblyReference.cache
+C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.Form1.resources
+C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.Resources.resources
+C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.vbproj.GenerateResource.Cache
+C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Release\ClipDirector.exe
