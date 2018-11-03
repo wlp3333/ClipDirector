@@ -100,11 +100,13 @@
         lbl_5.Text = "#"
     End Sub
     'Unique commands
+    'Detects current clipboard text
     Private Sub btn_dc_Click(sender As Object, e As EventArgs) Handles btn_dc.Click
         str6 = My.Computer.Clipboard.GetText()
         txt_6.Text = str6
         lbl_6.Text = CType(str6.Length, String)
     End Sub
+    'Purges all of the stored clipboard buffers
     Private Sub btn_pur_Click(sender As Object, e As EventArgs) Handles btn_pur.Click
         str1 = ""
         str2 = ""
