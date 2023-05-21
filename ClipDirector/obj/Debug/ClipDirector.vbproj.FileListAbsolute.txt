@@ -18,3 +18,14 @@ C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Debug\ClipDir
 C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Debug\ClipDirector.Form1.resources
 C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Debug\ClipDirector.Resources.resources
 C:\Dropbox\_DOCXZ\_2018\ClipDirector\ClipDirector\ClipDirector\obj\Debug\ClipDirector.vbproj.GenerateResource.Cache
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\bin\Debug\ClipDirector.exe.config
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\bin\Debug\ClipDirector.exe
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\bin\Debug\ClipDirector.pdb
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.vbproj.AssemblyReference.cache
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.vbproj.SuggestedBindingRedirects.cache
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.Form1.resources
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.Resources.resources
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.vbproj.GenerateResource.cache
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.vbproj.CoreCompileInputs.cache
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.exe
+C:\Users\william\Source\Repos\ClipDirector\ClipDirector\obj\Debug\ClipDirector.pdb

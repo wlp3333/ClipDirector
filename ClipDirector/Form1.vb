@@ -84,6 +84,11 @@
         txt_2.Text = ""
         lbl_2.Text = "#"
     End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
     Private Sub btn_clr_3_Click(sender As Object, e As EventArgs) Handles btn_clr_3.Click
         str3 = ""
         txt_3.Text = ""

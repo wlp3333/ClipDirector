@@ -415,7 +415,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(284, 482)
+        Me.ClientSize = New System.Drawing.Size(284, 481)
         Me.Controls.Add(Me.lbl_6)
         Me.Controls.Add(Me.btn_dc)
         Me.Controls.Add(Me.txt_6)
@@ -430,7 +430,7 @@ Partial Class Form1
         Me.MaximumSize = New System.Drawing.Size(300, 520)
         Me.MinimumSize = New System.Drawing.Size(300, 520)
         Me.Name = "Form1"
-        Me.Text = "ClipDirector V1.1"
+        Me.Text = "ClipDirector V1.2"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.GroupBox2.ResumeLayout(False)
